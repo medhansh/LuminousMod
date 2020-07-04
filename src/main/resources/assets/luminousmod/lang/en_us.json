@@ -1,0 +1,22 @@
+{
+
+	"item.luminousmod.example_item":"Example Item",
+	
+	"item.luminousmod.kryptonite_sword":"Kryptonite Sword",
+	"item.luminousmod.kryptonite_pickaxe":"Kryptonite Pickaxe",
+	"item.luminousmod.kryptonite_axe":"Kryptonite Axe",
+	"item.luminousmod.kryptonite_shovel":"Kryptonite Shovel",
+	"item.luminousmod.kryptonite_hoe":"Kryptonite Hoe",
+	
+	"item.luminousmod.fooditem":"Super Food",
+	"item.luminousmod.nitrate_crystal":"Nitrate Crystal",
+	"item.luminousmod.kryptonite_helmet":"Kryptonite Helmet",
+	"item.luminousmod.kryptonite_chestplate":"Kryptonite Chestplate",
+	"item.luminousmod.kryptonite_leggings":"Kryptonite Leggings",
+	"item.luminousmod.kryptonite_boots":"Kryptonite Boots",
+	"block.luminousmod.example_block":"Example Block",
+	"block.luminousmod.nitrate_ore":"Nitrate Ore",
+	"block.luminousmod.special_block":"Special Block",
+	"itemGroup.luminoustab" : "Luminous Tab"
+	
+}

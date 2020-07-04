@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "luminousmod:example_item",
+        "luminousmod:fooditem",
+        "minecraft:apple"
+    ]
+}
