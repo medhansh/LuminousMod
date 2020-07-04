@@ -32,6 +32,7 @@ public class LuminousMod
         
     	final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
     	// Register the setup method for modloading
+    	//this is just a test for github
         modEventBus.addListener(this::setup);
         
         // Register the doClientStuff method for modloading
